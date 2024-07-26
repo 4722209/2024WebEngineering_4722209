@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(46,46,46);
+    background-color: black;
 }
 
 section {
@@ -9,7 +9,7 @@ section {
 h1 {
     font-size: 50px;
     font-weight: bold;
-    color: rgb(255,255,255);
+    color: white;
 }
 
 ul{
@@ -26,13 +26,13 @@ li{
 
 a {
     text-decoration: none;
-    color:rgb(255,255,255);
+    color:white;
     font-weight: bold;
 }
 
 
 article {
-    background-color:mintcream;
+    background-color:black;
     margin-top: 20px;
     padding: 20px;
     border-radius: 10px;
